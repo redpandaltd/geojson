@@ -7,8 +7,8 @@
     <Version>0.1.0</Version>
     <Authors>Goncalo Oliveira</Authors>
     <Company>RedPanda Ltd</Company>
-    <Description>GeoJson</Description>
-    <RepositoryUrl>https://github.com/redpandaltd/</RepositoryUrl>
+    <Description>GeoJSON Serialization</Description>
+    <RepositoryUrl>https://github.com/redpandaltd/geojson</RepositoryUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
